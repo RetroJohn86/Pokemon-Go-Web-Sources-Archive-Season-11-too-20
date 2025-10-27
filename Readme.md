@@ -10,7 +10,7 @@ As from the September 2025, the Download Size for this Repo is : **?** ( Please 
 __**Files and Folder Structure.**__
 
 **Images**
-All images from Websites are organized by category. e.g. ?.
+All images from Websites are organized by category. e.g. Season ( Number ) - Season ( Name ) Season ( YEAR ).
 
 
 ## __**Disclaimer**__
